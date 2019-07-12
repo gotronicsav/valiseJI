@@ -1,4 +1,7 @@
 #!/usr/bin/python
+#@orga=GoTronic
+#@author=Sylvain G.
+
 import RPi.GPIO as GPIO
 import time
 
