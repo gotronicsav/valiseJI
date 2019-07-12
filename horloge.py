@@ -1,4 +1,6 @@
 #!/usr/bin/python
+#@orga=GoTronic
+#@author=Sylvain G.
 
 import time
 import datetime
