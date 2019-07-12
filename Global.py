@@ -1,4 +1,6 @@
 #!/usr/bin/python
+#@orga=GoTronic
+#@author=Sylvain G.
 import sys
 import time
 import smbus
